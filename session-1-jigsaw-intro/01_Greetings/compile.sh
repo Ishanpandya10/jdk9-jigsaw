@@ -2,6 +2,8 @@
 
 source ../../common-functions.sh
 
+rm -rf mods
+
 COM_GREETINGS_FOLDER="mods/com.greetings"
 
 runTree src
